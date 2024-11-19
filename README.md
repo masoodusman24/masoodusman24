@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @masoodusman24
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Python and Python Django
-- 💞️ I’m looking to collaborate on python projects when I learn this skill
-- 📫 How to reach me: On LinkedIN
+- 👀 I’m interested in Front-end Development and Python & Dango.
+- 📫 How to reach me: On [LinkedIN](https://www.linkedin.com/in/usman-masood-developer-designer/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Cricket lovers
 
