@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masoodusman24
 - 👀 I’m interested in Front-end Development and Python & Dango.
-- 📫 How to reach me: On [LinkedIN](https://www.linkedin.com/in/usman-masood-developer-designer/)
+- 📫 How to reach me: On [LinkedIN](https://www.linkedin.com/in/usman-masood-developer-designer/) Email: masoodusman24@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Cricket lovers
 
