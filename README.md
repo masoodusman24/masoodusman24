@@ -3,6 +3,9 @@
 - 📫 How to reach me: On [LinkedIN](https://www.linkedin.com/in/usman-masood-developer-designer/) & Email: masoodusman24@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Cricket lovers
+- Here's my Resume: [Frontend Developer & MLAI Engineer.pdf](https://github.com/user-attachments/files/23137243/Frontend.Developer.MLAI.Engineer.pdf)
+
+- 
 
 <!---
 masoodusman24/masoodusman24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
